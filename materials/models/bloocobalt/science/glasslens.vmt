@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/bloocobalt/science/glasslens"
+	"$translucent" 1
+}

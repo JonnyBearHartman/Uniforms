@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\SCIENCE/hands_black"
+	"$halflambert" 1
+	"$nocull" 1
+}

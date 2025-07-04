@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\SCIENCE/sandro_facemap3"
+	"$halflambert" 1
+	"$nocull" 1
+}

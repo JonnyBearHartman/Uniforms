@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\SCIENCE/vance_facemap"
+	"$halflambert" 1
+	"$nocull" 1
+}
